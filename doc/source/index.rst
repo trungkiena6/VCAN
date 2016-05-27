@@ -1,7 +1,9 @@
-Welcome to VCAN's documentation!
+VCAN
 ================================
 
-Contents:
+这是一个开源的乘用车CAN总线协议栈。
+
+目录:
 
 .. toctree::
    :maxdepth: 2
@@ -10,5 +12,3 @@ Contents:
    driver.rst
    COM.rst
    NM.rst
-
-
