@@ -6,17 +6,38 @@
 =======================
 
 
- **单片机** ：STM32F107VCT6
+**单片机** ：STM32F107VCT6
 
- **CAN收发器** ：PCA82C251T
+	* F = general-purpose
+	* 107 = connectivity, USB OTG FS & Ethernet
+	* V = 100 pins
+	* C = 256 Kbytes of Flash memory
+	* T = LQFP
+	* 6 = Industrial temperature range, –40 to 85 °C.
+	* 64k RAM
+	* 5 × USARTs,
+	* 4 × 16-bit timers,
+	* 2 × basic timers,
+	* 3 × SPIs,
+	* 2 × I2S,
+	* 1 × I2C,
+	* USB OTG FS,
+	* 2 × CANs,
+	* 1 × PWM timer,
+	* 2 × ADCs,
+	* 2 × DACs,
+	* Ethernet
+	* CPU frequency 72 MHz
+
+**CAN收发器** ：PCA82C251T
  
 =======================
 软件
 =======================
 
- **集成开发环境** ：MDK-ARM-STM32
+**集成开发环境** ：MDK-ARM-STM32
  
- **标准** ：OSEK-VDX COM
+**标准** ：OSEK-VDX COM
  
 -----------------------
 参考
